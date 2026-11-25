@@ -24,6 +24,13 @@ A Java-based desktop application for managing vehicle maintenance records, track
 
 **Technologies:** Java, Java Swing, Java Collections, File I/O
 
+### [Personal Expense Tracker](https://github.com/Nzubeonwere/PersonalExpenseTracker)
+
+A Java-based command-line application for managing personal expenses, calculating total spending, and filtering transactions by category. Implements precise monetary calculations, input validation, and reliable data persistence through atomic file saving.
+
+**Technologies:** Java 17, BigDecimal, Java Collections, Java NIO, File I/O
+
+
 ### [IT Help Desk Ticketing System](https://github.com/Nzubeonwere/IT-Help-Desk-Ticketing-System)
 
 A Java-based application designed to create, manage, and track technical support tickets.
