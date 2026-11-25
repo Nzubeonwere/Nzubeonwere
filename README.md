@@ -30,9 +30,6 @@ A Java-based application designed to create, manage, and track technical support
 
 **Status:** In Development
 
-### [Java Practice](https://github.com/Nzubeonwere/java-practice)
-
-A collection of Java programming exercises focused on strengthening programming fundamentals, logical thinking, and problem-solving skills.
 
 ## Current Focus
 
